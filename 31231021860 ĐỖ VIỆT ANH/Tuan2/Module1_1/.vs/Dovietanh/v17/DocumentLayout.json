@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE846928-0583-4AC7-A018-320C845C5CF6}|Bai6\\Baitap06.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\31231021860 \u0111\u1ED7 vi\u1EC7t anh\\tuan2\\module1_1\\bai6\\messageformater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE846928-0583-4AC7-A018-320C845C5CF6}|Bai6\\Baitap06.csproj|solutionrelative:bai6\\messageformater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5944E94-55F6-44D8-A875-4EB4302F3FA0}|Bai5\\Baitap05.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\31231021860 \u0111\u1ED7 vi\u1EC7t anh\\tuan2\\module1_1\\bai5\\formater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5944E94-55F6-44D8-A875-4EB4302F3FA0}|Bai5\\Baitap05.csproj|solutionrelative:bai5\\formater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B314BD99-1150-43E0-B14D-6395BEF85486}|Bai4\\Baitap04.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\31231021860 \u0111\u1ED7 vi\u1EC7t anh\\tuan2\\module1_1\\bai4\\changemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B314BD99-1150-43E0-B14D-6395BEF85486}|Bai4\\Baitap04.csproj|solutionrelative:bai4\\changemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B314BD99-1150-43E0-B14D-6395BEF85486}|Bai4\\Baitap04.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\31231021860 \u0111\u1ED7 vi\u1EC7t anh\\tuan2\\module1_1\\bai4\\changemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B314BD99-1150-43E0-B14D-6395BEF85486}|Bai4\\Baitap04.csproj|solutionrelative:bai4\\changemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAC6EB6-7B8F-49CB-AE40-9FEDE21FE8D9}|Bai3\\Baitap03.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\31231021860 \u0111\u1ED7 vi\u1EC7t anh\\tuan2\\module1_1\\bai3\\bthoten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EAC6EB6-7B8F-49CB-AE40-9FEDE21FE8D9}|Bai3\\Baitap03.csproj|solutionrelative:bai3\\bthoten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9511E29-2626-4498-B92F-675DD90C7415}|Bai2\\Baitap02.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\31231021860 \u0111\u1ED7 vi\u1EC7t anh\\tuan2\\module1_1\\bai2\\mynameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9511E29-2626-4498-B92F-675DD90C7415}|Bai2\\Baitap02.csproj|solutionrelative:bai2\\mynameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9511E29-2626-4498-B92F-675DD90C7415}|Bai2\\Baitap02.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\31231021860 \u0111\u1ED7 vi\u1EC7t anh\\tuan2\\module1_1\\bai2\\mynameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9511E29-2626-4498-B92F-675DD90C7415}|Bai2\\Baitap02.csproj|solutionrelative:bai2\\mynameproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageFormater.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai6\\MessageFormater.cs",
+              "RelativeDocumentMoniker": "Bai6\\MessageFormater.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai6\\MessageFormater.cs [Design]",
+              "RelativeToolTip": "Bai6\\MessageFormater.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:34:41.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formater.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai5\\Formater.cs",
+              "RelativeDocumentMoniker": "Bai5\\Formater.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai5\\Formater.cs [Design]",
+              "RelativeToolTip": "Bai5\\Formater.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:33:32.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeMoney.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai4\\ChangeMoney.cs",
+              "RelativeDocumentMoniker": "Bai4\\ChangeMoney.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai4\\ChangeMoney.cs",
+              "RelativeToolTip": "Bai4\\ChangeMoney.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAuwNsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:33:25.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeMoney.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai4\\ChangeMoney.cs",
+              "RelativeDocumentMoniker": "Bai4\\ChangeMoney.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai4\\ChangeMoney.cs [Design]",
+              "RelativeToolTip": "Bai4\\ChangeMoney.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:31:11.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BtHoTen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai3\\BtHoTen.cs",
+              "RelativeDocumentMoniker": "Bai3\\BtHoTen.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai3\\BtHoTen.cs [Design]",
+              "RelativeToolTip": "Bai3\\BtHoTen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:29:44.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyNameProject.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai2\\MyNameProject.cs",
+              "RelativeDocumentMoniker": "Bai2\\MyNameProject.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai2\\MyNameProject.cs",
+              "RelativeToolTip": "Bai2\\MyNameProject.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAhwDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:28:31.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyNameProject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai2\\MyNameProject.cs",
+              "RelativeDocumentMoniker": "Bai2\\MyNameProject.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\31231021860 \u0110\u1ED6 VI\u1EC6T ANH\\Tuan2\\Module1_1\\Bai2\\MyNameProject.cs [Design]",
+              "RelativeToolTip": "Bai2\\MyNameProject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:27:26.918Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

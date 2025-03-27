@@ -1,0 +1,10 @@
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\bin\Debug\Module1Forms_HoSyNamBinh.exe.config
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\bin\Debug\Module1Forms_HoSyNamBinh.exe
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\bin\Debug\Module1Forms_HoSyNamBinh.pdb
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\obj\Debug\Module1Forms_HoSyNamBinh.csproj.AssemblyReference.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\obj\Debug\Module1Forms_HoSyNamBinh.frmSimpleEvent.resources
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\obj\Debug\Module1Forms_HoSyNamBinh.Properties.Resources.resources
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\obj\Debug\Module1Forms_HoSyNamBinh.csproj.GenerateResource.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\obj\Debug\Module1Forms_HoSyNamBinh.csproj.CoreCompileInputs.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\obj\Debug\Module1Forms_HoSyNamBinh.exe
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Module1Forms_HoSyNamBinh\obj\Debug\Module1Forms_HoSyNamBinh.pdb

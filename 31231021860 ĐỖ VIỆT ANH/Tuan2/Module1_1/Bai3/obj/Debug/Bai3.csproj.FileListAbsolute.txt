@@ -1,0 +1,20 @@
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\bin\Debug\Bai3.exe.config
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\bin\Debug\Bai3.exe
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\bin\Debug\Bai3.pdb
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\obj\Debug\Bai3.BtHoTen.resources
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\obj\Debug\Bai3.exe
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai3\obj\Debug\Bai3.pdb
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\bin\Debug\Bai3.exe.config
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\bin\Debug\Bai3.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\bin\Debug\Bai3.pdb
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\obj\Debug\Bai3.BtHoTen.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\obj\Debug\Bai3.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\31231021860 ĐỖ VIỆT ANH\Tuan2\Module1_1\Bai3\obj\Debug\Bai3.pdb

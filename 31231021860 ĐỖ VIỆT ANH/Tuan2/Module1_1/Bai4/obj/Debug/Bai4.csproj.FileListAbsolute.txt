@@ -1,0 +1,10 @@
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\bin\Debug\Bai4.exe.config
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\bin\Debug\Bai4.exe
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\bin\Debug\Bai4.pdb
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\obj\Debug\Bai4.ChangeMoney.resources
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\obj\Debug\Bai4.exe
+E:\[LapTrinh_UngDungDesktop]\Module1\Module1Forms_HoSyNamBinh\Bai4\obj\Debug\Bai4.pdb
