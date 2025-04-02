@@ -1,0 +1,10 @@
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\bin\Debug\Baitapbuoi2.exe.config
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\bin\Debug\Baitapbuoi2.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\bin\Debug\Baitapbuoi2.pdb
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\obj\Debug\Baitapbuoi2.csproj.AssemblyReference.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\obj\Debug\Baitapbuoi2.Form1.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\obj\Debug\Baitapbuoi2.Properties.Resources.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\obj\Debug\Baitapbuoi2.csproj.GenerateResource.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\obj\Debug\Baitapbuoi2.csproj.CoreCompileInputs.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\obj\Debug\Baitapbuoi2.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\Baitapbuoi2\Baitapbuoi2\obj\Debug\Baitapbuoi2.pdb
