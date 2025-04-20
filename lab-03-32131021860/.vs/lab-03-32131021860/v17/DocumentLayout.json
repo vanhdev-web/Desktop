@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92E8EC25-DB50-4748-A296-7DEB882AFD88}|lab-03-32131021860\\lab-03-32131021860.csproj|c:\\users\\dovie\\onedrive\\desktop\\vi\u1EC7t anh\\desktop\\desktop\\lab-03-32131021860\\lab-03-32131021860\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E8EC25-DB50-4748-A296-7DEB882AFD88}|lab-03-32131021860\\lab-03-32131021860.csproj|solutionrelative:lab-03-32131021860\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E8EC25-DB50-4748-A296-7DEB882AFD88}|lab-03-32131021860\\lab-03-32131021860.csproj|C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92E8EC25-DB50-4748-A296-7DEB882AFD88}|lab-03-32131021860\\lab-03-32131021860.csproj|solutionrelative:lab-03-32131021860\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E8EC25-DB50-4748-A296-7DEB882AFD88}|lab-03-32131021860\\lab-03-32131021860.csproj|C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E8EC25-DB50-4748-A296-7DEB882AFD88}|lab-03-32131021860\\lab-03-32131021860.csproj|solutionrelative:lab-03-32131021860\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\Operator.cs",
+              "RelativeDocumentMoniker": "lab-03-32131021860\\Operator.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\Operator.cs",
+              "RelativeToolTip": "lab-03-32131021860\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:16:58.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\Form1.cs",
+              "RelativeDocumentMoniker": "lab-03-32131021860\\Form1.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\Form1.cs",
+              "RelativeToolTip": "lab-03-32131021860\\Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwDUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:38:37.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\Form1.cs",
+              "RelativeDocumentMoniker": "lab-03-32131021860\\Form1.cs",
+              "ToolTip": "C:\\Users\\dovie\\OneDrive\\Desktop\\Vi\u1EC7t anh\\Desktop\\Desktop\\lab-03-32131021860\\lab-03-32131021860\\Form1.cs [Design]",
+              "RelativeToolTip": "lab-03-32131021860\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:25:59.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\bin\Debug\lab-03-32131021860.exe.config
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\bin\Debug\lab-03-32131021860.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\bin\Debug\lab-03-32131021860.pdb
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\obj\Debug\lab-03-32131021860.csproj.AssemblyReference.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\obj\Debug\lab_03_32131021860.CaculatorForm.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\obj\Debug\lab_03_32131021860.Properties.Resources.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\obj\Debug\lab-03-32131021860.csproj.GenerateResource.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\obj\Debug\lab-03-32131021860.csproj.CoreCompileInputs.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\obj\Debug\lab-03-32131021860.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-03-32131021860\lab-03-32131021860\obj\Debug\lab-03-32131021860.pdb
