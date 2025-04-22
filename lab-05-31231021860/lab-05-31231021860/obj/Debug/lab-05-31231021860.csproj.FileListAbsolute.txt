@@ -1,0 +1,10 @@
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\bin\Debug\lab-05-31231021860.exe.config
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\bin\Debug\lab-05-31231021860.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\bin\Debug\lab-05-31231021860.pdb
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\obj\Debug\lab-05-31231021860.csproj.AssemblyReference.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\obj\Debug\lab_05_31231021860.Form1.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\obj\Debug\lab_05_31231021860.Properties.Resources.resources
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\obj\Debug\lab-05-31231021860.csproj.GenerateResource.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\obj\Debug\lab-05-31231021860.csproj.CoreCompileInputs.cache
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\obj\Debug\lab-05-31231021860.exe
+C:\Users\dovie\OneDrive\Desktop\Việt anh\Desktop\Desktop\lab-05-31231021860\lab-05-31231021860\obj\Debug\lab-05-31231021860.pdb
